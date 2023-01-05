@@ -9,6 +9,6 @@ entries:
     name: test-service
     type: application
     urls:
-    - https://briansu2004.github.io/heool-MinikubeHelmDeployment/test-service-0.1.0.tgz
+    - https://briansu2004.github.io/heool-MinikubeHelmDeployment/docs/test-service-0.1.0.tgz
     version: 0.1.0
 generated: "2023-01-05T07:08:48.293514-05:00"
