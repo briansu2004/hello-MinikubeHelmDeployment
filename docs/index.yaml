@@ -3,12 +3,12 @@ entries:
   test-service:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-05T07:08:48.294558-05:00"
+    created: "2023-01-05T07:28:12.057361-05:00"
     description: A Helm chart for Kubernetes
-    digest: 6f831bad1d210a5d0805003f662b0c4535c7403f63b187e162e7086ea707d26c
+    digest: 0e677fd3595cec94429dfc3cc4ca726bd5bcec0a771b3a3e2f93592f3a7641bc
     name: test-service
     type: application
     urls:
-    - https://briansu2004.github.io/heool-MinikubeHelmDeployment/docs/test-service-0.1.0.tgz
+    - https://briansu2004.github.io/hello-MinikubeHelmDeployment/test-service-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-05T07:08:48.293514-05:00"
+generated: "2023-01-05T07:28:12.056591-05:00"
